@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="magnifying-glass-solid.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.3691406"
+     inkscape:cx="-4.0171185"
+     inkscape:cy="256"
+     inkscape:window-width="3440"
+     inkscape:window-height="1370"
+     inkscape:window-x="-3446"
+     inkscape:window-y="-502"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+  <path
+     d="M 506.06561,93.675863 V 418.32414 c 0,44.98751 -36.06112,81.44841 -80.55539,81.44841 H 103.28863 c -44.494266,0 -80.555394,-36.4609 -80.555394,-81.44841 V 93.675863 c 0,-44.98752 36.061128,-81.448409 80.555394,-81.448409 h 322.22159 c 44.43133,0 80.55539,36.460889 80.55539,81.448409 z"
+     id="path2-4"
+     style="fill:#ffb100;stroke-width:1.26564;image-rendering:auto;fill-opacity:1" />
+  <path
+     d="M 418.84407,317.40065 348.0213,246.54464 c 16.10522,-23.92056 24.05131,-53.80795 19.79724,-85.65466 C 360.56467,106.72095 316.18949,62.638688 261.99263,55.773887 181.41321,45.572872 113.65527,113.36258 123.8521,193.97979 c 6.86336,54.24599 50.93087,98.67748 105.08041,105.89923 31.8318,4.25551 61.7111,-3.69137 85.61451,-19.80653 l 70.82277,70.85599 c 9.24188,9.24621 24.22885,9.24621 33.47071,0 9.23359,-9.25804 9.23359,-24.29346 0.004,-33.52783 z M 169.63308,177.87884 c 0,-41.77958 33.97365,-75.76915 75.73365,-75.76915 41.76,0 75.73362,33.98957 75.73362,75.76915 0,41.77958 -33.97365,75.76915 -75.73363,75.76915 -41.75999,0 -75.73364,-33.97773 -75.73364,-75.76915 z"
+     id="path2-2"
+     style="fill:#ffffff;stroke-width:0.591808" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:117.295px;line-height:1.25;font-family:sans-serif;letter-spacing:0.109964px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.22182"
+     x="50.121899"
+     y="450.43442"
+     id="text2090"
+     transform="scale(0.97083532,1.0300408)"><tspan
+       sodipodi:role="line"
+       id="tspan2088"
+       x="50.121899"
+       y="450.43442"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:117.295px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;stroke-width:1.22182">Buscar</tspan></text>
+</svg>
