@@ -73,7 +73,7 @@ def get_callbacks_CS(app):
         if Button == 0:
             CVR = 0
         if Button == 1:
-            ALL_INVOICES = 48
+            ALL_INVOICES = 45
             NOT_PAID = 4
             PR = round((NOT_PAID/ALL_INVOICES) * 100,2)
         return f'{PR}%'    
@@ -81,9 +81,9 @@ def get_callbacks_CS(app):
                 [Input('start_button','n_clicks')])
     def cardvalue(Button):
         if Button == 0:
-            CVR = 0
+            CVR = 0 
         if Button == 1:
-            ALL_INVOICES = 48223 
+            ALL_INVOICES = 46235 
             NOT_PAID = 2506 
             PR = round((NOT_PAID/ALL_INVOICES) * 100,2)
         return f'{PR}%'    
