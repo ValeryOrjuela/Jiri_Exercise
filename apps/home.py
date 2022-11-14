@@ -1,4 +1,5 @@
-from dash import html
+
+import dash_html_components as html
 
 #home layout
 layout = html.Div([ html.Img(

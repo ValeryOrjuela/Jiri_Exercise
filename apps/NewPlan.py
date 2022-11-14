@@ -1,10 +1,12 @@
-# =================== [Tablero Mis recomendados] ==========================.#
+# =================== [Tablero New Plan] ==========================.#
 from app import app
 # [Librerias] ===============================================================.#
 # Liberias manejo de tablas y listas
 import numpy as np
 # Librerias manejo de dash
-from dash import dcc,html
+import dash
+import dash_core_components as dcc
+import dash_html_components as html
 import dash_bootstrap_components as dbc
 import dash_table
 from dash.dependencies import Input, Output, State
@@ -36,6 +38,8 @@ PrNewPlan   = dbc.CardGroup([dbc.Card(PrNewPlan_G, color='#019EC6')], className=
 PrOldPlan   = dbc.CardGroup([dbc.Card(PrOldPlan_G, color='#0A66A5')], className="fafa-list")
 ## Gráfico 2 
 CS_graph_2 = dcc.Graph(id="CS_bar2")  
+## Gráfico 3 
+CS_graph_3 = dcc.Graph(id="CS_bar3")
 ## Boton  ---------------------------------------------------.#
 Botton_CS = html.Img(id='start_button', src='assets/Start.jpg', n_clicks=0, 
                         className='info-icon',height='70px', style={'display': 'inline-block'})                
@@ -58,7 +62,9 @@ t9_encabezado = html.Div([
                     dbc.Row([
                             dbc.Col([CS_graph_2], style={'padding': '5px 5px 5px 150px'})
                             ]),
-
+                    dbc.Row([
+                            dbc.Col([CS_graph_3], style={'padding': '5px 5px 5px 150px'})
+                            ])
                 ],style={'padding': '5px 5px 5px 5px','border': '2px solid #FFFFFF', 'border-radius':'6px','marginBottom': 5})
 
 layout = html.Div([
